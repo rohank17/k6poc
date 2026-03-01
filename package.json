@@ -1,0 +1,24 @@
+{
+  "name": "k6poc",
+  "version": "1.0.0",
+  "description": "k6 performance practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohank17/k6poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rohank17/k6poc/issues"
+  },
+  "homepage": "https://github.com/rohank17/k6poc#readme",
+  "devDependencies": {
+    "@types/k6": "^1.6.0"
+  }
+}
